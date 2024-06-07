@@ -29,18 +29,18 @@ const Skills = () => {
                     <FaGlobeAsia />
                 </motion.div>
 
-                <SKILL name="HTML" x="-12vw" y='4vw' />
+                <SKILL name="C" x="-12vw" y='4vw' />
                 <SKILL name="CSS" x="-5vw" y='-8vw' />
                 <SKILL name="JavaScript" x="20vw" y='6vw' />
                 <SKILL name="ReactJS" x="0vw" y='12vw' />
                 <SKILL name="NextJS" x="-20vw" y='-12vw' />
                 <SKILL name="GatsbyJS" x="18vw" y='-12vw' />
-                <SKILL name="AI and Chat-GPT" x="35vw" y='-5vw' />
+                <SKILL name="C++" x="35vw" y='-5vw' />
                 <SKILL name="Ethical Hacking" x="0vw" y='-21vw' />
                 <SKILL name="Node JS" x="-25vw" y='15vw' />
-                <SKILL name="Tailwind CSS" x="18vw" y='-7vw' />
+                <SKILL name="Assimbly" x="18vw" y='-7vw' />
                 <SKILL name="MERN" x="-20vw" y='3vw' />
-                <SKILL name="Mechine Learning" x="18vw" y='18vw' />
+                <SKILL name="Python" x="18vw" y='18vw' />
                 {/* <SKILL name="Tailwind CSS" x="18vw" y='18vw' /> */}
                 {/* <SKILL name="Tailwind CSS" x="18vw" y='18vw' /> */}
             </div>
